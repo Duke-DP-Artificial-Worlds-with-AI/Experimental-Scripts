@@ -1,0 +1,176 @@
+/hdd/dataplus2021/share/data/labels/naip_3985_ME_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/WED Coventry 1.txt
+/hdd/dataplus2021/share/data/labels/Somerset.txt
+/hdd/dataplus2021/share/data/labels/Howard.txt
+/hdd/dataplus2021/share/data/labels/Forbes Park.txt
+/hdd/dataplus2021/share/data/labels/naip_6188_NY_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6333_NY_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_3967_ME_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/Department of Correction, NCCI Gardner.txt
+/hdd/dataplus2021/share/data/labels/Kibby Mountain II.txt
+/hdd/dataplus2021/share/data/labels/6th Space Warning Squadron.txt
+/hdd/dataplus2021/share/data/labels/WED Coventry 2.txt
+/hdd/dataplus2021/share/data/labels/Hoosac.txt
+/hdd/dataplus2021/share/data/labels/Mill Run Wind.txt
+/hdd/dataplus2021/share/data/labels/Nature's Classroom Wind Turbine.txt
+/hdd/dataplus2021/share/data/labels/Highland North.txt
+/hdd/dataplus2021/share/data/labels/WED Coventry 5.txt
+/hdd/dataplus2021/share/data/labels/WED Coventry 4.txt
+/hdd/dataplus2021/share/data/labels/Falmouth II.txt
+/hdd/dataplus2021/share/data/labels/Harbec Plastics.txt
+/hdd/dataplus2021/share/data/labels/Air Force (Barnstable).txt
+/hdd/dataplus2021/share/data/labels/naip_3646_MA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/Applied Materials.txt
+/hdd/dataplus2021/share/data/labels/naip_6842_PA_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/Camelot Wind Project.txt
+/hdd/dataplus2021/share/data/labels/New York State Thruway Authority.txt
+/hdd/dataplus2021/share/data/labels/naip_3600_MA_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/Spruce Mountain.txt
+/hdd/dataplus2021/share/data/labels/naip_3967_ME_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/Record Hill.txt
+/hdd/dataplus2021/share/data/labels/naip_6809_PA_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6184_NY_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/Fenner Wind Power Project.txt
+/hdd/dataplus2021/share/data/labels/Nantucket High School.txt
+/hdd/dataplus2021/share/data/labels/naip_8032_VT_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_6031_NY_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_3598_MA_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/Forward.txt
+/hdd/dataplus2021/share/data/labels/naip_3596_MA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_6882_PA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/Patriot.txt
+/hdd/dataplus2021/share/data/labels/Seneca Nation.txt
+/hdd/dataplus2021/share/data/labels/Portsmouth Abbey School.txt
+/hdd/dataplus2021/share/data/labels/WED Portsmouth 1.txt
+/hdd/dataplus2021/share/data/labels/naip_6184_NY_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/naip_6188_NY_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/naip_6809_PA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_3985_ME_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/Casselman.txt
+/hdd/dataplus2021/share/data/labels/naip_6861_PA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_3878_MD_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/Noble Bliss.txt
+/hdd/dataplus2021/share/data/labels/naip_5495_NH_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/Sandywoods.txt
+/hdd/dataplus2021/share/data/labels/naip_3718_MA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_3675_MA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6980_PA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_3878_MD_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_3600_MA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6327_NY_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_3598_MA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6031_NY_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/Hull I.txt
+/hdd/dataplus2021/share/data/labels/naip_3939_ME_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/Mount Wachusett Wind Farm.txt
+/hdd/dataplus2021/share/data/labels/naip_3718_MA_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6842_PA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_6188_NY_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6031_NY_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/Berkshire Wind Power Project Phase II.txt
+/hdd/dataplus2021/share/data/labels/Marsh Hill.txt
+/hdd/dataplus2021/share/data/labels/Fourmile Ridge.txt
+/hdd/dataplus2021/share/data/labels/Chestnut Flats.txt
+/hdd/dataplus2021/share/data/labels/naip_3596_MA_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/Mill Run Windpower LLC.txt
+/hdd/dataplus2021/share/data/labels/Wind Colebrook South.txt
+/hdd/dataplus2021/share/data/labels/naip_3646_MA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_5495_NH_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/Meyersdale.txt
+/hdd/dataplus2021/share/data/labels/naip_5502_NH_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_3784_MA_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_6882_PA_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/naip_3878_MD_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/naip_3598_MA_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_3784_MA_WND_i0j1.txt
+/hdd/dataplus2021/share/data/labels/Charlestown Wind Turbine.txt
+/hdd/dataplus2021/share/data/labels/Philips Lightolier.txt
+/hdd/dataplus2021/share/data/labels/Ipswich II.txt
+/hdd/dataplus2021/share/data/labels/Zotos.txt
+/hdd/dataplus2021/share/data/labels/Princeton Municipal Light and Water Plant.txt
+/hdd/dataplus2021/share/data/labels/Ipswich.txt
+/hdd/dataplus2021/share/data/labels/Deerfield Wind.txt
+/hdd/dataplus2021/share/data/labels/Kibby Mountain, phase I.txt
+/hdd/dataplus2021/share/data/labels/naip_3732_MA_WND_i0j0.txt
+/hdd/dataplus2021/share/data/labels/naip_5502_NH_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/Scituate Wind.txt
+/hdd/dataplus2021/share/data/labels/North Kingstown Green.txt
+/hdd/dataplus2021/share/data/labels/naip_3598_MA_WND_i1j1.txt
+/hdd/dataplus2021/share/data/labels/naip_5502_NH_WND_i1j0.txt
+/hdd/dataplus2021/share/data/labels/Ringer Hill.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_2705_IA_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4323_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4332_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4279_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4309_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4319_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4486_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_2578_IA_WND_i1j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_2705_IA_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_3014_IL_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4324_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4279_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4305_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_3014_IL_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_2548_IA_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_2548_IA_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4486_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4324_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4469_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4284_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4428_MN_WND_i1j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4428_MN_WND_i1j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4305_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4539_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4401_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4469_MN_WND_i1j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4469_MN_WND_i1j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4486_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4332_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4279_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4401_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_2717_IA_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_3014_IL_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4436_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_2578_IA_WND_i1j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4319_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4539_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4279_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4332_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4314_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4436_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4486_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4305_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4538_MN_WND_i1j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4469_MN_WND_i1j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_2705_IA_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4300_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4314_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4300_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4319_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4332_MN_WND_i0j0_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_2717_IA_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4309_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4469_MN_WND_i1j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4401_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4300_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4538_MN_WND_i1j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4300_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_2970_IL_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_2548_IA_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4538_MN_WND_i1j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4305_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4469_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4401_MN_WND_i1j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4486_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4538_MN_WND_i1j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4469_MN_WND_i1j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4539_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4469_MN_WND_i1j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4436_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4436_MN_WND_i0j1_NW.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4323_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4539_MN_WND_i0j0_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4279_MN_WND_i0j1_SE.txt
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4436_MN_WND_i0j1_SE.txt
+

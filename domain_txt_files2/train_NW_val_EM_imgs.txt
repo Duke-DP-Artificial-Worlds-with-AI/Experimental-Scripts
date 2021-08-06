@@ -1,0 +1,176 @@
+/hdd/dataplus2021/share/data/images/naip_6712_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2784_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/Camp Reed.jpg
+/hdd/dataplus2021/share/data/images/Nine Canyon.jpg
+/hdd/dataplus2021/share/data/images/naip_8122_WA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_8122_WA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6714_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2855_ID_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Foote Creek 4.jpg
+/hdd/dataplus2021/share/data/images/naip_6712_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_4726_MT_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_8126_WA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6615_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6659_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Yahoo Creek.jpg
+/hdd/dataplus2021/share/data/images/naip_6758_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Two Dot.jpg
+/hdd/dataplus2021/share/data/images/High Mesa.jpg
+/hdd/dataplus2021/share/data/images/naip_6715_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_8177_WA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6712_OR_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2857_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6616_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6715_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2762_ID_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6751_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2857_ID_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2810_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_8126_WA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6659_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2853_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6666_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2854_ID_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2779_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_8100_WA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6650_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6759_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_4749_MT_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_4736_MT_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/Oregon Trail.jpg
+/hdd/dataplus2021/share/data/images/naip_2779_ID_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6633_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_4751_MT_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Wild Horse II.jpg
+/hdd/dataplus2021/share/data/images/naip_6758_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2739_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2853_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2810_ID_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6768_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_4751_MT_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_8177_WA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Salmon Falls.jpg
+/hdd/dataplus2021/share/data/images/naip_6659_OR_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_8100_WA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2812_ID_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6762_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6759_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Tuana Gulch.jpg
+/hdd/dataplus2021/share/data/images/Pilgrim Stage Station.jpg
+/hdd/dataplus2021/share/data/images/naip_2855_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_4726_MT_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2750_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2749_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2775_ID_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6666_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6762_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Marengo I.jpg
+/hdd/dataplus2021/share/data/images/Seven Mile Hill I & II.jpg
+/hdd/dataplus2021/share/data/images/naip_8195_WA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2840_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/White Creek.jpg
+/hdd/dataplus2021/share/data/images/Swauk Valley.jpg
+/hdd/dataplus2021/share/data/images/Musselshell I.jpg
+/hdd/dataplus2021/share/data/images/naip_6714_OR_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Two Dot Wind Farm.jpg
+/hdd/dataplus2021/share/data/images/Tucannon River.jpg
+/hdd/dataplus2021/share/data/images/Burley Butte.jpg
+/hdd/dataplus2021/share/data/images/naip_8184_WA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6682_OR_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Milner Dam.jpg
+/hdd/dataplus2021/share/data/images/naip_6751_OR_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2781_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2843_ID_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_2812_ID_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6767_OR_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_4736_MT_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Nine Canyon II.jpg
+/hdd/dataplus2021/share/data/images/naip_6616_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2843_ID_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Mountain Home.jpg
+/hdd/dataplus2021/share/data/images/Goodnoe Hills.jpg
+/hdd/dataplus2021/share/data/images/Air Force (Laramie).jpg
+/hdd/dataplus2021/share/data/images/naip_2775_ID_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Marengo II.jpg
+/hdd/dataplus2021/share/data/images/naip_8109_WA_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Wolverine Creek.jpg
+/hdd/dataplus2021/share/data/images/Foote Creek 3.jpg
+/hdd/dataplus2021/share/data/images/naip_4749_MT_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6715_OR_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_2744_ID_WND_i1j0.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_2705_IA_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4323_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4332_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4279_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4309_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4319_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4486_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_2578_IA_WND_i1j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_2705_IA_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_3014_IL_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4324_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4279_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4305_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_3014_IL_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_2548_IA_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_2548_IA_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4486_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4324_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4469_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4284_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4428_MN_WND_i1j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4428_MN_WND_i1j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4305_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4539_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4401_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4469_MN_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4469_MN_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4486_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4332_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4279_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4401_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_2717_IA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_3014_IL_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4436_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_2578_IA_WND_i1j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4319_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4539_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4279_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4332_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4314_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4436_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4486_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4305_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4538_MN_WND_i1j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4469_MN_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_2705_IA_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4300_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4314_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4300_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4319_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4332_MN_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_2717_IA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4309_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4469_MN_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4401_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4300_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4538_MN_WND_i1j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd8_6/naip_4300_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_2970_IL_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_2548_IA_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4538_MN_WND_i1j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd15_5/naip_4305_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4469_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4401_MN_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd3_8/naip_4486_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd40_7/naip_4538_MN_WND_i1j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4469_MN_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4539_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_7/naip_4469_MN_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4436_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4436_MN_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4323_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd24_4/naip_4539_MN_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd19_4/naip_4279_MN_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_EM/source_sd9_8/naip_4436_MN_WND_i0j1_SE.jpg
+

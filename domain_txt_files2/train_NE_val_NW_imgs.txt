@@ -1,0 +1,175 @@
+/hdd/dataplus2021/share/data/images/naip_3718_MA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/WED Coventry 4.jpg
+/hdd/dataplus2021/share/data/images/Deerfield Wind.jpg
+/hdd/dataplus2021/share/data/images/naip_3985_ME_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_5502_NH_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Ringer Hill.jpg
+/hdd/dataplus2021/share/data/images/Spruce Mountain.jpg
+/hdd/dataplus2021/share/data/images/naip_6031_NY_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_3596_MA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Philips Lightolier.jpg
+/hdd/dataplus2021/share/data/images/Noble Bliss.jpg
+/hdd/dataplus2021/share/data/images/Nantucket High School.jpg
+/hdd/dataplus2021/share/data/images/naip_3596_MA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3600_MA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/Air Force (Barnstable).jpg
+/hdd/dataplus2021/share/data/images/Forbes Park.jpg
+/hdd/dataplus2021/share/data/images/Portsmouth Abbey School.jpg
+/hdd/dataplus2021/share/data/images/naip_3878_MD_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Harbec Plastics.jpg
+/hdd/dataplus2021/share/data/images/Kibby Mountain II.jpg
+/hdd/dataplus2021/share/data/images/Zotos.jpg
+/hdd/dataplus2021/share/data/images/Marsh Hill.jpg
+/hdd/dataplus2021/share/data/images/naip_6184_NY_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/Department of Correction, NCCI Gardner.jpg
+/hdd/dataplus2021/share/data/images/Seneca Nation.jpg
+/hdd/dataplus2021/share/data/images/6th Space Warning Squadron.jpg
+/hdd/dataplus2021/share/data/images/Princeton Municipal Light and Water Plant.jpg
+/hdd/dataplus2021/share/data/images/naip_3967_ME_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6188_NY_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3784_MA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_5495_NH_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3878_MD_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_5495_NH_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3598_MA_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6333_NY_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Charlestown Wind Turbine.jpg
+/hdd/dataplus2021/share/data/images/Nature's Classroom Wind Turbine.jpg
+/hdd/dataplus2021/share/data/images/Highland North.jpg
+/hdd/dataplus2021/share/data/images/Record Hill.jpg
+/hdd/dataplus2021/share/data/images/naip_6882_PA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6842_PA_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3732_MA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_3598_MA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/WED Coventry 1.jpg
+/hdd/dataplus2021/share/data/images/WED Coventry 5.jpg
+/hdd/dataplus2021/share/data/images/WED Coventry 2.jpg
+/hdd/dataplus2021/share/data/images/naip_3967_ME_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_8032_VT_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Chestnut Flats.jpg
+/hdd/dataplus2021/share/data/images/naip_6327_NY_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/Mount Wachusett Wind Farm.jpg
+/hdd/dataplus2021/share/data/images/naip_3939_ME_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Ipswich II.jpg
+/hdd/dataplus2021/share/data/images/naip_3784_MA_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3878_MD_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6861_PA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Falmouth II.jpg
+/hdd/dataplus2021/share/data/images/Patriot.jpg
+/hdd/dataplus2021/share/data/images/Ipswich.jpg
+/hdd/dataplus2021/share/data/images/Sandywoods.jpg
+/hdd/dataplus2021/share/data/images/Hoosac.jpg
+/hdd/dataplus2021/share/data/images/Mill Run Wind.jpg
+/hdd/dataplus2021/share/data/images/Scituate Wind.jpg
+/hdd/dataplus2021/share/data/images/naip_3646_MA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Fourmile Ridge.jpg
+/hdd/dataplus2021/share/data/images/naip_5502_NH_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/New York State Thruway Authority.jpg
+/hdd/dataplus2021/share/data/images/naip_3600_MA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_3598_MA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6980_PA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6031_NY_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Forward.jpg
+/hdd/dataplus2021/share/data/images/naip_6809_PA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/WED Portsmouth 1.jpg
+/hdd/dataplus2021/share/data/images/Somerset.jpg
+/hdd/dataplus2021/share/data/images/Wind Colebrook South.jpg
+/hdd/dataplus2021/share/data/images/naip_6184_NY_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Berkshire Wind Power Project Phase II.jpg
+/hdd/dataplus2021/share/data/images/Kibby Mountain, phase I.jpg
+/hdd/dataplus2021/share/data/images/naip_3718_MA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Mill Run Windpower LLC.jpg
+/hdd/dataplus2021/share/data/images/naip_3675_MA_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Howard.jpg
+/hdd/dataplus2021/share/data/images/Applied Materials.jpg
+/hdd/dataplus2021/share/data/images/naip_5502_NH_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Hull I.jpg
+/hdd/dataplus2021/share/data/images/naip_3646_MA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/Meyersdale.jpg
+/hdd/dataplus2021/share/data/images/naip_6882_PA_WND_i0j1.jpg
+/hdd/dataplus2021/share/data/images/Fenner Wind Power Project.jpg
+/hdd/dataplus2021/share/data/images/naip_6809_PA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/Casselman.jpg
+/hdd/dataplus2021/share/data/images/naip_6842_PA_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_3985_ME_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/North Kingstown Green.jpg
+/hdd/dataplus2021/share/data/images/naip_3598_MA_WND_i0j0.jpg
+/hdd/dataplus2021/share/data/images/naip_6188_NY_WND_i1j0.jpg
+/hdd/dataplus2021/share/data/images/Camelot Wind Project.jpg
+/hdd/dataplus2021/share/data/images/naip_6031_NY_WND_i1j1.jpg
+/hdd/dataplus2021/share/data/images/naip_6188_NY_WND_i0j0.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_4726_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_2739_ID_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/MedicineBow_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_2749_ID_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_8195_WA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_2810_ID_WND_i1j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/ThousandSprings_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/MedicineBow_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_8070_WA_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/naip_8195_WA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/MartinsdaleColonySouth_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/MartinsdaleColonySouth_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/MartinsdaleColonySouth_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/BigTimber_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/naip_4735_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/naip_6715_OR_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/BigHorn_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/BigHorn_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/naip_8195_WA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/BigHorn_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/BigHorn_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/naip_4735_MT_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/naip_4735_MT_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/BigTimber_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_8100_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_4735_MT_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_4726_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/naip_6715_OR_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/naip_8100_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/naip_2781_ID_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/BigHorn_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/naip_2749_ID_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_8100_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/naip_8070_WA_WND_i1j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_8184_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_4735_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/naip_2810_ID_WND_i1j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/MedicineBow_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/ThousandSprings_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_2781_ID_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_2739_ID_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/naip_4726_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/naip_4735_MT_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_2749_ID_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/naip_4735_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_4735_MT_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_6715_OR_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/MedicineBow_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/naip_4726_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/BigTimber_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/MartinsdaleColonySouth_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/naip_8184_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/ThousandSprings_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_2749_ID_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/naip_2749_ID_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/naip_8195_WA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/BigTimber_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/ThousandSprings_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/MusselshellI_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/naip_2749_ID_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/naip_2810_ID_WND_i1j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd3_8/MartinsdaleColonySouth_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_8184_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/naip_8184_WA_WND_i0j1_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/MusselshellI_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/naip_8195_WA_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_4735_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd9_8/BigTimber_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd19_4/naip_4735_MT_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/naip_4735_MT_WND_i1j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd15_5/MartinsdaleColonySouth_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_7/naip_2749_ID_WND_i0j1_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd24_4/naip_2739_ID_WND_i0j0_SE.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd8_6/naip_4726_MT_WND_i0j0_NW.jpg
+/hdd/dataplus2021/fcw/experimental_output_ratio_NW/source_sd40_7/ThousandSprings_SE.jpg
